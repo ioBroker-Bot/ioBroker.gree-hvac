@@ -44,6 +44,8 @@ All devices which can be controlled via EWPE Smart app should be supported, incl
  - Updated dependencies
  - Adjusted admin layout
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 MIT License
 
